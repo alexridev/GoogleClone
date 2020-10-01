@@ -12,4 +12,4 @@
 
 # Russian Version
 
-![Mexican Version](./imgreadme/RusianVersion.png)
+![Mexican Version](./imgreadme/RussianVersion.png)
